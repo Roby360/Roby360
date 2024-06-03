@@ -15,7 +15,7 @@
 <br>
 <div align="center">
   <a href="https://discord.com/users/789802191149989908">
-  <img src="https://lanyard.cnrad.dev/api/789802191149989908?theme=light&animated=true&borderRadius=10px&&idleMessage=Hi%20its%20me" />
+  <img src="https://lanyard.cnrad.dev/api/789802191149989908?theme=light&animated=true&borderRadius=10px&&idleMessage=Salut je suis ici" />
   </a>
   <br/><br/><br/>
 </div>
