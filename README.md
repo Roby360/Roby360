@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roby360.Roby360" />
 <div>
 <br/>
-<h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
+<h3 align="center">💪 developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
 </div>
 <h2>Stats</h2>
 <br>
