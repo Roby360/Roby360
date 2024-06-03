@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roby360.Roby360" />
 <div>
 <br/>
-<div align="center"><img src="https://media.discordapp.net/attachments/1230310861227425823/1244735351885533324/XLqhd3E.png?ex=665631a1&is=6654e021&hm=a8097cebe6a3b049fad6fd9bb816d247997ee415649ee97ca4a53373835f3755&=&format=webp&quality=lossless&width=850&height=300"/></div>
-<br/>
 <h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
 </div>
 <h2>Stats</h2>
