@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roby360.Roby360" />
+<div>
+<br/>
+<div align="center"><img src="https://media.discordapp.net/attachments/1230310861227425823/1244735351885533324/XLqhd3E.png?ex=665631a1&is=6654e021&hm=a8097cebe6a3b049fad6fd9bb816d247997ee415649ee97ca4a53373835f3755&=&format=webp&quality=lossless&width=850&height=300"/></div>
+<br/>
+<h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
+</div>
+<h2>Stats</h2>
+<br>
+<div align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Roby360&theme=meta-light&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roby360&layout=compact&theme=meta-light&hide_border=true&locale=fr"" />
+  <br/><br/>
+</div>
 
-<!--
-**Roby360/Roby360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Discord</h2>
+<br>
+<div align="center">
+  <a href="https://discord.com/users/789802191149989908">
+  <img src="https://lanyard.cnrad.dev/api/789802191149989908?theme=light&animated=true&borderRadius=10px&&idleMessage=Hi%20its%20me" />
+  </a>
+  <br/><br/><br/>
+</div>
