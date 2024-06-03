@@ -6,8 +6,8 @@
 <h2>Stats</h2>
 <br>
 <div align="center">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Roby360&theme=dark-minimalist&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&ring=FF6E96&fire=FF6E96&background=282A36" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roby360&layout=compact&theme=dracula&hide_border=true&locale=fr"" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Roby360&theme=dark-minimalist&hide_border=true&locale=en&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&ring=FF6E96&fire=FF6E96&background=282A36" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roby360&layout=compact&theme=dracula&hide_border=true&locale=en"" />
   <br/><br/>
 </div>
 
